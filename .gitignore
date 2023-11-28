@@ -1,0 +1,9 @@
+.idea
+/email/src/main/resources/application.properties
+/user/src/main/resources/application.properties
+/user/src/test/
+/email/src/test/
+/email/.mvn/
+/email/target/
+/user/.mvn/
+/user/target/
